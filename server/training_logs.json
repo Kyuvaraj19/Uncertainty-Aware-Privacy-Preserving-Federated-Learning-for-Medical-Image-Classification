@@ -1,0 +1,6 @@
+{
+    "round": 5,
+    "loss": 0.2,
+    "accuracy": 0.99,
+    "uncertainty": 0.1
+}

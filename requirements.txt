@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+keras
+flwr
+pyqt5
+tensorflow-privacy
+tqdm
+joblib

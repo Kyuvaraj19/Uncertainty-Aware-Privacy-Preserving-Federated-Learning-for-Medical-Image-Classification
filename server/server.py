@@ -1,6 +1,6 @@
 # server/server.py
 
-import flwr as fl
+import flwr as fl # pyright: ignore[reportMissingImports]
 import json
 import random
 import os
